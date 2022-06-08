@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on LST Yazılım [https://www.lstyazilim.com/](https://www.lstyazilim.com/)
 
-- 🌱 I’m currently learning **react,.NET**
+- 🌱 I’m currently learning **React - .NET**
 
 - 💬 Ask me about **anything**
 
