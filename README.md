@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanorh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanorh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguz1907-orh" alt="oguz1907-orh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhanorh" alt="oguzhanorh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,8 +25,8 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz1907-orh&show_icons=true&locale=en&layout=compact" alt="oguz1907-orh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanorh&show_icons=true&locale=en&layout=compact" alt="oguzhanorh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguz1907-orh&show_icons=true&locale=en" alt="oguz1907-orh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanorh&show_icons=true&locale=en" alt="oguzhanorh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguz1907-orh&" alt="oguz1907-orh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanorh&" alt="oguzhanorhh" /></p>
